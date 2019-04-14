@@ -35,7 +35,7 @@
   display: block;
   -webkit-transform: rotateX(180deg);
           transform: rotateX(180deg);
-  color: black;
+  color: rgb(209, 208, 208);
   -webkit-transition: color .3s;
           transition: color .3s;
 }
@@ -256,7 +256,7 @@ nav li:nth-child(even) a:hover {
 
 nav li.active a,
 body.fp-viewing-fifthSection-1 #menu li:last-child a {
-  background: #453659;
+  background: #ffffff;
 }
   
 
@@ -300,9 +300,9 @@ h3 {
 	width: 16px;
 	height: 16px;
 	margin: -8px 0 0 -8px;
-	background: transparent;
+	background: rgb(255, 255, 255);
 	box-sizing: border-box;
-	border: 1px solid #24221F;
+	border: 1px solid rgb(255, 255, 255);
 }
 
 
